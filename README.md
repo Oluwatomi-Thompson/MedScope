@@ -124,7 +124,7 @@ MedScope/
 
 ## Demo Video
 A demo video showcasing the application, features, and usage via the load balancer is available at:
-[Insert your demo video link here]
+https://youtu.be/jxU03575fHQ
 
 ## Credits
 1. OpenFDA – U.S. Food & Drug Administration, OpenFDA Drug Label API

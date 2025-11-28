@@ -55,7 +55,7 @@ MedScope is a web application that allows users to search for medicines and acce
 ## Deployment
 MedScope has been deployed on two web servers with a load balancer distributing traffic between them. The application is fully functional through the load balancer, ensuring seamless access and consistent performance.
 
-Access the live application here: http://54.88.20.208/
+Access the live application with this op address: 54.88.20.208
 
 ## Deployment and Load balancer configuration
 

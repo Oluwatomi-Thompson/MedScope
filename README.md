@@ -65,8 +65,8 @@ The application code (index.html, style.css, script.js, and assets directory) wa
 
 | Server | IP Address | Deployment Path |
 | :--- | :--- | :--- |
-| Web-server-1 | http://34.239.101.93 | `/var/www/html/` |
-| Web-server-2 | http://54.204.209.124 | `/var/www/html/` |
+| Web-server-1 | 34.239.101.93 | `/var/www/html/` |
+| Web-server-2 | 54.204.209.124 | `/var/www/html/` |
 
 **Deployment Steps:**
 
@@ -84,7 +84,7 @@ The Load Balancer (Lb01) was configured using **Nginx** to distribute incoming t
 
 | Load Balancer | IP Address | Configuration |
 | :--- | :--- | :--- |
-| Load-balancer-1 | http://54.88.20.208 | Nginx (Round Robin) |
+| Load-balancer-1 | 54.88.20.208 | Nginx (Round Robin) |
 
 
 ## File Structure
@@ -118,9 +118,9 @@ MedScope/
 
 
 ## Web servers
-1. Web-server-1: http://34.239.101.93
-2. Web-server-2: http://54.204.209.124
-3. Load-balancer-1: http://54.88.20.208
+1. Web-server-1: 34.239.101.93
+2. Web-server-2: 54.204.209.124
+3. Load-balancer-1: 54.88.20.208
 
 ## Demo Video
 A demo video showcasing the application, features, and usage via the load balancer is available at:
